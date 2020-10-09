@@ -1,21 +1,21 @@
 h1 {
-  display:inline-block;
   text-align: center;
   padding-right: -100;
   color: lightpink;
-  font-size: 100px;
-  text-shadow: 5px 5px lightblue;
-  font-weight: 900;
-  background: lightgreen;
+  background: lightblue;
+  text-shadow: 2px 2px lightyellow;
 }
+
 head {
 }
+
 body {
  background: url(photo/RAT.png);
  background-size: 250px 250px;
 background-repeat:repeat;
 background-color: lightyellow;
 }
+
 h2 {
   text-align: center;
   color: white;
@@ -23,4 +23,41 @@ h2 {
   text-shadow: 2px 2px lightpink;
   writing-mode: vertical-rl;
   border: 3px dotted lightgreen;
+}
+
+h3 {
+  text-align: center;
+  color: lightpink;
+  font-size: 30px;
+  text-shadow: 2px 2px lightyellow;
+background: lightblue;
+}
+
+#pop {
+  position: absolute;
+  width: 100%;
+  height:100%
+  }
+  
+  #shit {
+  position: absolute;
+  left: 40%;
+  width:333px;
+  height:500px;
+}
+
+#bitch {
+
+}
+
+#yamete{
+
+}
+
+#yikes{
+
+}
+
+#ree{
+
 }
