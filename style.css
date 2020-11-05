@@ -1,0 +1,160 @@
+h1 {
+  text-align: center;
+      color: pink;
+        background: hotpink;
+      font-size: 100px;
+    outline: outset #C71585;
+  text-shadow: 2px 2px white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(photo/yeet2.png), url(yeet2.png);
+  background-color: plum;
+}
+
+p{
+  text-align: center;
+    color: pink;
+        font-size: 25px;
+      text-shadow: 2px 2px lightblue;
+  background: hotpink;
+position: relative;
+outline: outset #C71585;
+text-shadow: 2px 2px white;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+  text-align: center;
+    color: white;
+      font-size: 15px;
+        text-shadow: 2px 2px hotpink;
+      writing-mode: vertical-rl;
+  border: 3px dotted #C71585 ;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h4 {
+  text-align: center;
+    color: pink;
+      font-size: 40px;
+        text-shadow: 2px 2px lightyellow;
+      background:hotpink;
+    position: relative;
+    outline: outset #C71585;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+
+nav {
+width: 100%;
+height: 50px;
+position: fixed;
+top: 0;
+background:hotpink;
+z-index: 100;
+outline: outset #C71585;
+}
+
+
+ul {
+}
+
+
+ul li {
+list-style: none;
+display: inline-block;
+line-height: 30px;
+border-radius: 30px;
+background: #C71585;
+position: relative;
+left: 40%;
+}
+
+
+ul li a {
+display: block;
+text-decoration: none;
+font-size: 40px;
+font-family: "Comic Sans MS", sans-serif;
+font-weight: 500;
+color: pink;
+padding: 10px 10px;
+text-shadow: 2px 2px white;
+}
+
+
+ul li a:hover {
+color: plum;
+}
+
+
+.center {
+  width: 400px;
+    margin: auto;
+}
+
+
+.idk {
+  text-align: center;
+    color: pink;
+      font-size: 30px;
+        text-shadow: 2px 2px white;
+      background: hotpink;
+    position: relative;
+  outline: outset #C71585;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.thecowboy {
+  position: absolute;
+    top: 400px;
+      left: 42%;
+    width:333px;
+  height:500px;
+}
+
+.Flip2:hover {
+  visibility: hidden;
+}
+
+.RAT {
+  position: absolute;
+    top: 300px;
+      left: 10%;
+    width:380px;
+  height:500px;
+  transform: scaleX(-1);
+}
+
+.RATATATA {
+  position: absolute;
+    top: 300px;
+      left: 70%;
+    width:380px;
+  height:500px;
+}
+
+
+
+video {
+  height: inherit;
+    width: 100%;
+}
+
+
+.vid {
+  width: 25%;
+    height: 839px;
+      display: inline-block;
+}
+
+#videos {
+  outline: outset #C71585;
+    display: flex;
+      flex-direction: row;
+}
